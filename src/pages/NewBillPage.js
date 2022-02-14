@@ -110,11 +110,6 @@ const NewBillPage = () => {
 
 export default NewBillPage;
 
-const Header=styled.div`
-    text-align:center;
-    font-family: 'Alfa Slab One', cursive;
-`;
-
 const Input = styled.div`
     height:auto;
     border:2px solid black;
